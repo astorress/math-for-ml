@@ -50,9 +50,3 @@ También puedes abrir cualquier notebook en [Google Colab](https://colab.researc
 ### Notas
 
 - **Visualización interactiva (02):** usa `ipywidgets`, así que solo funciona al ejecutar la notebook en Jupyter o Colab, no en la vista previa de GitHub.
-
-## Repositorios relacionados
-
-- [algoritmos-from-scratch](https://github.com/astorress/algoritmos-from-scratch): complejidad, búsqueda, ordenamiento, grafos, optimización y computación cuántica desde cero.
-- [ml-from-scratch](https://github.com/astorress/ml-from-scratch): Machine Learning, Deep Learning y Reinforcement Learning implementados desde cero.
-- [data-science-lab](https://github.com/astorress/data-science-lab): casos prácticos de data science aplicado con librerías.
